@@ -1,10 +1,11 @@
 import "./App.css";
-import Dog from "./components/Dog";
+import Can from "./components/Can";
 
 function App() {
   return (
     <>
-      <Dog />
+      {/* <Dog /> */}
+      <Can />
     </>
   );
 }
